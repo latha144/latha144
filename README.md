@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sumalatha Gummudu</h1>
-<h3 align="center">Full Stack Developer | Django • React</h3>
+<h3 align="center">Full Stack Developer | Python • React</h3>
 
 <p align="center">
-  I build scalable web apps and turn ideas into real products.
+  I build scalable web applications and solve real-world problems using Python.
 </p>
 
 ---
 
 ### 👩‍💻 About Me
-- 🚀 Passionate about **Full Stack Development**
-- 🌱 Currently working with **Django & React**
-- 💡 Love solving real-world problems through code
-- 🎯 Goal: Become a skilled **Software Engineer**
+- 🚀 Strong in **Python development**
+- 🌱 Working with **Django & React**
+- 💡 Interested in building real-world applications
+- 🎯 Goal: Become a **Software Engineer**
 
 ---
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,django,react,html,css,mysql,postgres,git,postman" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,django,html,css,mysql,postgres,git,postman" />
 </p>
 
 ---
@@ -51,12 +51,11 @@
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/sumalatha gummudu">LinkedIn</a> •
-  <a href="https://github.com/latha144">GitHub</a> •
   <a href="mailto:gumudusumalatha23@gmail.com">Email</a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ <b>I build. I learn. I improve.</b>
+  ⭐ <b>I build with Python. I learn continuously. I improve every day.</b>
 </p>
