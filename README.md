@@ -1,56 +1,62 @@
-<h1 align="center">Hi, I'm Sumalatha 👋</h1>
+<h1 align="center">Hi 👋, I'm Sumalatha Gummudu</h1>
+<h3 align="center">Full Stack Developer | Django • React</h3>
 
 <p align="center">
-Full Stack Developer from India building real-world web applications.
+  I build scalable web apps and turn ideas into real products.
 </p>
 
 ---
 
-I’m a developer who enjoys turning ideas into working products.  
-Currently focused on backend development with Django and exploring React.
-
-I don’t just follow tutorials — I build and improve things in my own way.
-
----
-
-### 💼 What I’m doing
-- Building full stack apps (Django + React)
-- Improving problem solving skills
-- Learning scalable system design
+### 👩‍💻 About Me
+- 🚀 Passionate about **Full Stack Development**
+- 🌱 Currently working with **Django & React**
+- 💡 Love solving real-world problems through code
+- 🎯 Goal: Become a skilled **Software Engineer**
 
 ---
 
-### 🛠 Tech I use
-Python • JavaScript • Django • React • HTML • CSS  
-MySQL • PostgreSQL • Git • Postman  
-
----
-
-### 📊 GitHub Stats
+### 🛠 Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=latha144&show_icons=true&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,js,django,react,html,css,mysql,postgres,git,postman" />
+</p>
+
+---
+
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=latha144&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latha144&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latha144&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=latha144&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=latha144&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=latha144&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=latha144&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Reach me
-gumudusumalatha23@gmail.com  
+### 🚀 Featured Projects
+- 🔹 Breast Cancer Detection using Deep Learning  
+- 🔹 Quiz Web Application  
+- 🔹 Full Stack Apps (Django + React)  
 
 ---
 
-> “I build. I learn. I improve.”
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/sumalatha gummudu">LinkedIn</a> •
+  <a href="https://github.com/latha144">GitHub</a> •
+  <a href="mailto:gumudusumalatha23@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>I build. I learn. I improve.</b>
+</p>
