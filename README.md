@@ -1,54 +1,56 @@
 <h1 align="center">Hi 👋, I'm Sumalatha Gummudu</h1>
-<h3 align="center">Full Stack Developer | Django & React Enthusiast</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=latha144&label=Profile%20Views&color=0e75b6&style=flat" alt="latha144" />
+Building scalable web applications using Django & React
 </p>
 
 ---
 
 ### 👩‍💻 About Me
-- 💻 Passionate **Full Stack Developer**
+- 💡 Strong interest in **Full Stack Development**
 - 🌱 Currently learning **Django & React.js**
-- 🚀 Interested in building **scalable web applications**
-- 🎯 Goal: To become a **skilled software engineer**
-- 📫 Email: **gumudusumalatha23@gmail.com**
+- 🛠️ Love building real-world projects
+- 🎯 Focused on becoming a **Software Engineer**
 
 ---
 
-### 🔗 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/sumalatha gummudu"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://kaggle.com/gummudu sumalatha"><img src="https://skillicons.dev/icons?i=kaggle" /></a>
-<a href="https://instagram.com/sumalathagummudu"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://www.youtube.com/c/sumalatha gumudu"><img src="https://skillicons.dev/icons?i=youtube" /></a>
-</p>
+### 🧰 Tech Stack
+**Languages:**  
+Python, JavaScript, C  
+
+**Frontend:**  
+HTML, CSS, Bootstrap, React  
+
+**Backend:**  
+Django  
+
+**Database:**  
+MySQL, PostgreSQL  
+
+**Tools:**  
+Git, Postman  
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,django,react,mysql,postgres,git,postman,tensorflow" />
-</p>
+### 📌 Projects
+- 🔹 Breast Cancer Detection using Deep Learning  
+- 🔹 Quiz Web Application  
+- 🔹 Full Stack Web Apps (Django + React)  
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=latha144&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latha144&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latha144&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=latha144&show_icons=true" />
 </p>
 
 ---
 
-### 📄 Resume
-👉 [View My Resume](https://drive.google.com/file/d/1HGk6vc3qW5_0TL_FxTNu3R242XYvMk1O/view?usp=drive_link)
+### 📫 Contact
+- Email: **gumudusumalatha23@gmail.com**
+- LinkedIn: https://linkedin.com/in/sumalatha gummudu
 
 ---
 
-### ✨ Quote
-_"Code. Learn. Build. Repeat."_ 🚀
+⭐ *Always learning, always building*
