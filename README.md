@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sumalatha Gummudu</h1>
-<h3 align="center">Full Stack Developer | Python • React</h3>
+<h3 align="center">Python Developer</h3>
 
 <p align="center">
-  I build scalable web applications and solve real-world problems using Python.
+  I build efficient and scalable applications using Python.
 </p>
 
 ---
 
 ### 👩‍💻 About Me
-- 🚀 Strong in **Python development**
-- 🌱 Working with **Django & React**
-- 💡 Interested in building real-world applications
+- 🐍 Strong in **Python programming**
+- 💡 Interested in backend development and problem solving
+- 🛠️ Experience with **Django, databases, and APIs**
 - 🎯 Goal: Become a **Software Engineer**
 
 ---
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,django,html,css,mysql,postgres,git,postman" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,mysql,postgres,git,postman" />
 </p>
 
 ---
@@ -44,18 +44,15 @@
 ### 🚀 Featured Projects
 - 🔹 Breast Cancer Detection using Deep Learning  
 - 🔹 Quiz Web Application  
-- 🔹 Full Stack Apps (Django + React)  
+- 🔹 Backend APIs using Django  
 
 ---
 
-### 📫 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/sumalatha gummudu">LinkedIn</a> •
-  <a href="mailto:gumudusumalatha23@gmail.com">Email</a>
-</p>
+### 📫 Contact
+- Email: **gumudusumalatha23@gmail.com**
 
 ---
 
 <p align="center">
-  ⭐ <b>I build with Python. I learn continuously. I improve every day.</b>
+  ⭐ <b>Python first. Logic driven. Always improving.</b>
 </p>
