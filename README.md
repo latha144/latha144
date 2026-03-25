@@ -1,56 +1,41 @@
-<h1 align="center">Hi 👋, I'm Sumalatha Gummudu</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Hi, I'm Sumalatha 👋</h1>
 
 <p align="center">
-Building scalable web applications using Django & React
+Full Stack Developer from India building real-world web applications.
 </p>
 
 ---
 
-### 👩‍💻 About Me
-- 💡 Strong interest in **Full Stack Development**
-- 🌱 Currently learning **Django & React.js**
-- 🛠️ Love building real-world projects
-- 🎯 Focused on becoming a **Software Engineer**
+I’m a developer who enjoys turning ideas into working products.  
+Currently focused on backend development with Django and exploring modern frontend with React.
+
+I don’t just follow tutorials — I build and improve things in my own way.
 
 ---
 
-### 🧰 Tech Stack
-**Languages:**  
-Python, JavaScript, C  
-
-**Frontend:**  
-HTML, CSS, Bootstrap, React  
-
-**Backend:**  
-Django  
-
-**Database:**  
-MySQL, PostgreSQL  
-
-**Tools:**  
-Git, Postman  
+### 💼 What I’m doing
+- Working on full stack projects (Django + React)
+- Strengthening problem solving skills
+- Learning how to design scalable applications
 
 ---
 
-### 📌 Projects
-- 🔹 Breast Cancer Detection using Deep Learning  
-- 🔹 Quiz Web Application  
-- 🔹 Full Stack Web Apps (Django + React)  
+### 🛠 Tech I use
+Python • JavaScript • Django • React • HTML • CSS  
+MySQL • PostgreSQL • Git • Postman  
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=latha144&show_icons=true" />
-</p>
+### 📌 Selected Work
+- Breast Cancer Detection (Deep Learning)
+- Quiz Web Application
+- Full Stack Django Projects
 
 ---
 
-### 📫 Contact
-- Email: **gumudusumalatha23@gmail.com**
-- LinkedIn: https://linkedin.com/in/sumalatha gummudu
+### 📫 Reach me
+gumudusumalatha23@gmail.com  
 
 ---
 
-⭐ *Always learning, always building*
+> “I build. I learn. I improve.”
