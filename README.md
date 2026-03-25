@@ -7,16 +7,16 @@ Full Stack Developer from India building real-world web applications.
 ---
 
 I’m a developer who enjoys turning ideas into working products.  
-Currently focused on backend development with Django and exploring modern frontend with React.
+Currently focused on backend development with Django and exploring React.
 
 I don’t just follow tutorials — I build and improve things in my own way.
 
 ---
 
 ### 💼 What I’m doing
-- Working on full stack projects (Django + React)
-- Strengthening problem solving skills
-- Learning how to design scalable applications
+- Building full stack apps (Django + React)
+- Improving problem solving skills
+- Learning scalable system design
 
 ---
 
@@ -26,10 +26,25 @@ MySQL • PostgreSQL • Git • Postman
 
 ---
 
-### 📌 Selected Work
-- Breast Cancer Detection (Deep Learning)
-- Quiz Web Application
-- Full Stack Django Projects
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=latha144&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latha144&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=latha144&hide_border=true" />
+</p>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=latha144&hide_border=true" />
+</p>
 
 ---
 
